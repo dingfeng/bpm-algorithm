@@ -205,7 +205,6 @@ def binarySearch(list, num):
             start = mid + 1
         elif num < midValue:
             end = mid - 1
-    pass
 
 
 # 比较函数
